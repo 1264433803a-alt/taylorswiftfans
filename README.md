@@ -64,26 +64,8 @@ This is the heart of the forum. We don't just love the popstar; we love the arti
 
 ## 🚀 How to Run Locally
 
-1.  Clone the repository:
-    ```bash
-    git clone TaylorSwiftfans.grok.me
-    ```
-2.  Navigate into the project directory:
-    ```bash
-    cd the-swift-forum
-    ```
-3.  Install dependencies (if applicable):
-    ```bash
-    npm install
-    ```
-4.  Start the development server:
-    ```bash
-    npm start
-    ```
-5.  Open `http://localhost:3000` in your browser.
-
----
-
+1.  Open this URL on the latest version of Google Chrome or Microsoft Edge
+   Taylorswiftfans.grok.me
 ## 🛣️ Future Roadmap
 
 This is a dynamic project, and the journey has just begun!
